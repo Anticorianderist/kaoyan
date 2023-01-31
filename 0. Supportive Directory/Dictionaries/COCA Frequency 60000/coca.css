@@ -1,0 +1,156 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.coca {
+	overflow: hidden;
+}
+
+.word {
+	font-weight: bold;
+	float: left;
+	clear: left;
+	font-size: 1.1em;
+}
+
+.pos {
+	color: #C80021;
+	font-weight: bold;
+	float: left;
+	clear: left;
+	text-align: left;
+}
+
+.pos:after {
+	content: ".";
+	margin-right: 0.3em;
+}
+
+.rank {
+	color: red;
+	font-weight: bold;
+	float: left;
+}
+
+.rank:before {
+	content: "RANK";
+	font-weight: normal;
+	color: #000;
+	font-size: 0.75em;
+	margin-right: 0.2em;
+}
+
+.rank:after {
+	content: ", FREQ";
+	font-weight: normal;
+	color: #000;
+	font-size: 0.75em;
+	margin-right: 0.2em;
+}
+
+.total {
+	float: left;
+	font-size: 0.8em;
+	position: relative;
+	bottom: -0.3em;
+	color: #032952;
+	font-weight: bolder;
+}
+
+.total:hover, .total-active {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.table {
+	font-size: 0.9em;
+	clear: left;
+	display: none;
+	height: 7.3em;
+	position: relative;
+	top: 0.3em;
+}
+
+.spoken, .fiction, .magazine, .newspaper, .academic {
+	float: left;
+	text-align: center;
+	border: 1px solid rgba(220, 220, 220, 1);
+	border-right: none;
+}
+
+.academic {
+	border-right: 1px solid rgba(220, 220, 220, 1);
+}
+
+.title {
+	border-bottom: 1px dotted rgba(220, 220, 220, 1);
+	padding: 0.3em 0.8em;
+	font-size: 0.94em;
+}
+
+.percent {
+	height: 3em;
+	border-bottom: 1px dotted rgba(220, 220, 220, 1);
+	position: relative;
+}
+
+.percent-post {
+	width: 0.6em;
+	border: 1px solid rgba(0, 0, 0, .2);
+	background-color: #ccc;
+	position: absolute;
+	bottom: 2px;
+	left: 50%;
+	margin-left: -0.3em;
+}
+
+.spoken .percent-post {
+	background-color: rgba(160, 222, 165, 1);
+}
+
+.fiction .percent-post {
+	background-color: rgba(145, 200, 222, 1);
+}
+
+.magazine .percent-post {
+	background-color: rgba(222, 190, 130, 1);
+}
+
+.newspaper .percent-post {
+	background-color: rgba(222, 135, 133, 1);
+}
+
+.academic .percent-post {
+	background-color: rgba(212, 181, 222, 1);
+}
+
+.freq {
+	font-size: 0.84em;
+	padding: 0.3em 0.8em;
+}
+
+.pos-percent {
+	float: left;
+	font-size: 0.8em;
+	margin-left: 0.4em;
+	position: relative;
+	bottom: -0.3em;
+}
+
+.pos-percent-block {
+	float: left;
+	height: 0.8em;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	background-color: rgba(0, 0, 0, 0.1);
+	border-radius: 0.2em;
+	position: relative;
+	bottom: -0.2em;
+}
+
+.pos-percent-text {
+	float: left;
+	font-weight: bold;
+	color: blue;
+	margin-left: 0.2em;
+}
