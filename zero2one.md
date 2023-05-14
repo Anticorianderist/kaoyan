@@ -1,4 +1,4 @@
-# The ZERO2ONE.md of kaoyan
+# The ZERO2ONE of kaoyan
 
 ## 0x01 目标
 
