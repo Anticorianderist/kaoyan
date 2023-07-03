@@ -23,14 +23,14 @@
 
 以下是本书的**目录**：
 
-[序：我的考研之路](https://github.com/Anticorianderist/blog/blob/main/src/1-preface-my-postgraduate-entrance-examination.md)
+[序：我的考研之路](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-preface-my-postgraduate-entrance-examination.md)
 
 上篇：初试方法论
 
-1. [考研政治](https://github.com/Anticorianderist/blog/blob/main/src/1-methodologies/1-101.md)
-2. [考研英语](https://github.com/Anticorianderist/blog/blob/main/src/1-methodologies/2-201.md)
-3. [考研数学](https://github.com/Anticorianderist/blog/blob/main/src/1-methodologies/3-301.md)
-4. [计算机学科专业基础综合](https://github.com/Anticorianderist/blog/blob/main/src/1-methodologies/4-408.md)
+1. [考研政治](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/1-101.md)
+2. [考研英语](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/2-201.md)
+3. [考研数学](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/3-301.md)
+4. [计算机学科专业基础综合](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/4-408.md)
 
 下篇：考研杂谈
 
