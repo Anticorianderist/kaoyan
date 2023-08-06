@@ -6,11 +6,11 @@
 
 本书的**使用说明**如下：
 
-- 第1个问题：**考研经验贴的意义是什么？**如果每个人都可以看见我的考研经验贴，而且我的考研经验贴超过了所有的竞争对手，但录取名额不变，你们应不应该感谢我？考研是一场选拔性考试（比如高考，排名最重要），不是通过性考试（比如CET 4，分数最重要）。举一个例子，假如我的考研经验贴让你初试考了410分、复试考了175分，让甲初试考了420分、复试考了180分，而上海交通大学计算机科学与工程系的录取名额是1。你应不应该感谢我？从零和博弈的角度来看，选择最合适自己的考研经验贴已经是考点之一了。为了被录取，你所需要的考研经验贴是让你超过x人，不是让你考y分。如果理解了选择最合适自己的考研经验贴即考点，你是本书所面向的**读者**。
+- 第1个问题：**考研经验贴的意义是什么？**如果每个人都可以看见我的考研经验贴，而且我的考研经验贴超过了所有的竞争对手，但录取名额不变，你们应不应该感谢我？考研是一场选拔性考试（比如高考，排名最重要），不是通过性考试（比如CET 4，分数最重要）。举一个例子，假如我的考研经验贴让你初试考了410分、复试考了175分，让甲初试考了420分、复试考了180分，而上海交通大学计算机科学与工程系的录取名额是1。你应不应该感谢我？从零和博弈的角度来看，选择最合适自己的考研经验贴已经是考点之一了。为了被录取，你所需要的考研经验贴是让你超过 $x$ 人，不是让你考 $y$ 分。如果理解了选择最合适自己的考研经验贴即考点，你是本书所面向的***读者***。
 - 第2个问题：**我的考研经验贴的意义是什么？**
   - 让本书所面向的**读者**被录取。
-  - 录取通知书重要吗？我觉得硕士的录取通知书很鸡肋。引用一句常见的话，“读研只有收到录取通知书和拿到毕业证、学位证的两天是开心的。”这句话的潜台词是“捡了结果；丢了过程”。我的考研经验贴希望“你可以从考研和读研的过程中收获比录取通知书和双证更重要的东西”。如果可以在考研和读研的过程中让考研和读研的结果（录取通知书和双证）足够地鸡肋，你是本书所面向的**核心读者**。
-- 在本书完结之前，你可以通过**邮件**（bancroft.lau@gmail.com）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
+  - 录取通知书重要吗？我觉得硕士的录取通知书很鸡肋。引用一句常见的话，“读研只有收到录取通知书和拿到毕业证、学位证的两天是开心的。”这句话的潜台词是“捡了结果；丢了过程”。我的考研经验贴希望“你可以从考研和读研的过程中收获比录取通知书和双证更重要的东西”。如果可以在考研和读研的过程中让考研和读研的结果（录取通知书和双证）足够地鸡肋，你是本书所面向的***核心读者***。
+- 在本书完结之前，你可以通过**邮件**（`bancroft.lau@gmail.com`）或**issue**向我发送关于本书的任何反馈（疑问、建议等）。
 
 本书的**写作逻辑**如下：
 
@@ -23,28 +23,15 @@
 
 以下是本书的**目录**：
 
-[序：我的考研之路](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-preface-my-postgraduate-entrance-examination.md)
+[序：我的考研之路](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-preface-my-postgraduate-entrance-examination.md)
 
 上篇：初试方法论
 
-1. [考研政治](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/1-101.md)
-2. [考研英语](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/2-201.md)
-3. [考研数学](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/3-301.md)
-4. [计算机学科专业基础综合](https://github.com/Anticorianderist/kaoyan/blob/main/src/1-methodologies/4-408.md)
+1. [考研政治](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-methodologies/1-101.md)
+2. [考研英语](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-methodologies/2-201.md)
+3. [考研数学](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-methodologies/3-301.md)
+4. [计算机学科专业基础综合](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/1-methodologies/4-408.md)
 
 下篇：考研杂谈
-
-1. 成败
-2. 目标
-3. 主要矛盾
-4. 学习曲线
-5. 迭代
-6. 心态
-7. 名师
-8. 执行力
-9. 概率论
-10. 生产力
-11. 复试
-12. 导师
 
 后记：第一个目标
