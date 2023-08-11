@@ -40,7 +40,7 @@
 1. [目标](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/1-target.md)
 2. [成败](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/2-success-and-failure.md)
 3. [学习曲线](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/3-learning-curve.md)
-4. 主要矛盾
+4. [主要矛盾](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/4-principal-contradictions.md)
 5. 信息素养
 6. 执行力
 7. 心态
