@@ -37,7 +37,7 @@
 
 下篇：考研杂谈
 
-1. 目标
+1. [目标](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/1-target.md)
 2. 成败
 3. 学习曲线
 4. 主要矛盾
