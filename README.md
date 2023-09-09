@@ -42,7 +42,7 @@
 3. [学习曲线](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/3-learning-curve.md)
 4. [主要矛盾](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/4-principal-contradictions.md)
 5. [信息素养](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/5-information-literacy.md)
-6. 执行力
+6. [执行力](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/6-execution-skills.md)
 7. 心态
 8. 复试
 9. 导师
