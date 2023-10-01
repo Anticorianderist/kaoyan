@@ -43,7 +43,7 @@
 4. [主要矛盾](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/4-principal-contradictions.md)
 5. [信息素养](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/5-information-literacy.md)
 6. [执行力](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/6-execution-skills.md)
-7. [心态（未完成）](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/7-mentality.md)
+7. [心态](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/7-mentality.md)
 8. [复试（未完成）](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/8-second-exam.md)
 9. [导师（未完成）](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/9-supervisors.md)
 
