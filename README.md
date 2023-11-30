@@ -41,6 +41,6 @@
 8. [复试](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/8-second-exam.md)
 9. [导师](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-essays/9-supervisors.md)
 
-[后记：第一个目标（未完成）](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-epilogue-first-target.md)
+[后记：第一个目标](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/2-epilogue-first-target.md)
 
-[致谢（未完成）](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/3-acknowledgments.md)
+[致谢](https://github.com/Anticorianderist/kaoyan/blob/main/1-src/3-acknowledgments.md)
