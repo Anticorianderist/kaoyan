@@ -90,3 +90,7 @@
 - 2024-03-17：改完了《下篇：考研杂谈》的第1-4篇文章。
 
 ## 0x03 From Zero to Zero
+
+- 2024-03-24：改完《下篇：考研杂谈》的第5-8篇文章。
+  - Cause: too busy to finish.
+  - Solution: make full use of time with time management.
